@@ -1,6 +1,6 @@
 # Angular7
 
-Este proyecto fue generado por Angular CLI
+Este proyecto fue generado con Angular CLI
 
 [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
 
